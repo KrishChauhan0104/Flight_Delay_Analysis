@@ -22,3 +22,5 @@ This project aims to analyze and predict flight delays based on various features
 - [License](#license)
 
 ---
+### You can download the datasets from this link
+https://www.kaggle.com/datasets/usdot/flight-delays
